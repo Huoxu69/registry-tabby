@@ -123,8 +123,8 @@
     "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
     "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
     "urls": [
-      "https://hf-mirror.com/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q8_0.gguf-split-a",
-      "https://hf-mirror.com/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q8_0.gguf-split-b"
+      "https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q8_0.gguf-split-a",
+      "https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q8_0.gguf-split-b"
     ],
     "sha256": "fedd4671a091edb12cbd2fa8686bd83b0b0b7f30a933616f2d2f8b417761d3e2"
   }
