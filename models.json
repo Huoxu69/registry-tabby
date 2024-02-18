@@ -127,5 +127,27 @@
       "https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q8_0.gguf-split-b"
     ],
     "sha256": "fedd4671a091edb12cbd2fa8686bd83b0b0b7f30a933616f2d2f8b417761d3e2"
+  },
+  {
+    "name": "CodeLlama-70B4bit",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-70b-hf",
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-70B-Instruct-GGUF/resolve/main/codellama-70b-instruct.Q4_K_M.gguf"
+    ],
+    "sha256": "3ccb06c4c25e12130c30812b1739110d8c059f09ad2805edb655445bbfb0e4cc"
+  },
+  {
+    "name": "CodeLlama-13B",
+    "provider_url": "https://huggingface.co/codellama/CodeLlama-13b-hf",
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls": [
+      "https://huggingface.co/TheBloke/CodeLlama-13B-Instruct-GGUF/resolve/main/codellama-13b-instruct.Q8_0.gguf"
+    ],
+    "sha256": "97c5a3aaae76ccbc69800cd2fd73ba6a94cd14a7d26d6be1d3c38163f449bdd6"
   }
 ]
